@@ -1,1 +1,1 @@
-# boom
+console.log("Hello,world!")
